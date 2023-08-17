@@ -35,7 +35,7 @@
  
  <p align="center"> 
   
-  ## Total de Visitas no perfil - Total Profile Views :detective: <br>
+  ## Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/avilajp/count.svg" />
  </p>
