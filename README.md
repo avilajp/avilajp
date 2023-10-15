@@ -27,12 +27,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
 
-- 💻 Building cool stuff with Java, Vuetify and Nuxt. 🚀
-##
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=avilajp&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajp&layout=compact&langs_count=7&theme=radical&hide_border=true"/> 
- 
  <p align="center"> 
   
   ## Total Profile Views :detective: <br>
