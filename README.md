@@ -1,7 +1,6 @@
 <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="350"/>
 <br><br>
-## Welcome to my profile!✨✨
-</a>
+ Welcome to my profile!✨✨
 
 ##### My name is João Pedro, I'm a full-stack developer passionate about new solutions. Let's talk! ☕
 
