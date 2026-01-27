@@ -23,9 +23,13 @@
  <p align="center"> 
   
   ## Total Profile Views :detective: <br>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avilajp&color=blue" />
- </p>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=avilajp&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Profile views" 
+  />
+</p>
+
 
 
 </p>
