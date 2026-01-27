@@ -23,9 +23,10 @@
  <p align="center"> 
   
   ## Total Profile Views :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/avilajp/count.svg" />
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avilajp&color=blue" />
  </p>
+
 
 </p>
 
