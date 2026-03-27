@@ -1,55 +1,124 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="320"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" min-width="300px" max-width="300px" width="300px" align="right"/>
 
-## Welcome to my profile ✨
-
-My name is **João Pedro**, I'm a **Full Stack Developer** passionate about building solutions and learning new technologies.  
-Let’s talk ☕🚀
-
----
-
-### 🛠️ Languages & Tools
-
-#### 💻 Backend / Languages
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=embarcadero&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-FF6600?style=for-the-badge&logo=firefox&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-#### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 🤖 AI & New Tech
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-FF69B4?style=for-the-badge)
-
----
-
-### 🕵️ Profile Views
+<h1 align="center">🚀 João Pedro</h1>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=avilajp&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Profile views" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;API+Builder;Always+Learning+New+Techs" />
+</p>
+
+<p align="center">
+  <b>Full Stack Developer focused on building scalable systems, APIs and modern web applications.</b>
+</p>
+
+---
+
+## 🧠 About Me
+
+```js id="devstyle"
+class JoãoPedro {
+  role = "Full Stack Developer";
+  mainStack = ["C#", ".NET", "Node.js", "React"];
+  
+  specialties = [
+    "Backend Development",
+    "API Design",
+    "System Integration"
+  ];
+
+  currentlyLearning = [
+    "Cloud Architecture ☁️",
+    "Artificial Intelligence 🤖",
+    "Scalable Systems 📈"
+  ];
+
+  mindset = "Code. Improve. Repeat.";
+}
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python,js,ts" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Other</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=avilajp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilajp&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avilajp&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avilajp&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💭 Dev Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
